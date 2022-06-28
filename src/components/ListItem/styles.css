@@ -1,0 +1,20 @@
+.container_list_item {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.services {
+  background-color: #fafafa;
+  padding: 20px 18px;
+  margin-bottom: 25px;
+}
+.list_item {
+  display: flex;
+}
+.services__btn {
+  border: none;
+  background: none;
+}
+.list_item-gif {
+  margin-right: 20px;
+}
